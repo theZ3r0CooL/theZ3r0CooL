@@ -9,16 +9,13 @@
   </a>
 </p>
 <p align="center" style="width: 100%; position: absolute; display: flex; place-content: center; place-items: center;">
-  <style>
-    img {
+  <a href="https://github.com/joshG-sgc" alt="joshG-SGC">
+    <img style="
         border-radius: 50%;
         width: 150px;
         height: 150px;
         object-fit: cover;
-    }
-  </style>
-  <a href="https://github.com/joshG-sgc" alt="joshG-SGC">
-    <img style="width: 10%;" src="https://avatars.githubusercontent.com/u/130998712?v=4"/>
+      " src="https://avatars.githubusercontent.com/u/130998712?v=4"/>
   </a>
 </p>
 <p align="center" style="width: 100%; position: absolute; display: flex; place-content: center; place-items: center;">
