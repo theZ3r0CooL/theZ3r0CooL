@@ -9,6 +9,11 @@
   </a>
 </p>
 <p align="center" style="width: 100%; position: absolute; display: flex; place-content: center; place-items: center;">
-  <img style="width: 80%;" src="https://wakatime.com/share/@Z3r0CooL/66870b20-f2e7-4d2c-8b0a-7dedc2618995.svg"/>
+  <a href="https://github.com/joshG-sgc" alt="joshG-SGC">
+    <img style="width: 30%;" src="https://avatars.githubusercontent.com/u/130998712?v=4"/>
+  </a>
+</p>
+<p align="center" style="width: 100%; position: absolute; display: flex; place-content: center; place-items: center;">
+  <img style="width: 80%;" src="https://wakatime.com/share/@Z3r0CooL/66870b20-f2e7-4d2c-8b0a-7dedc2618995.svg"/>  
   <img style="width: 80%;" src="https://wakatime.com/share/@Z3r0CooL/621e1e17-b5e5-4feb-82df-e8ad00bc7517.svg"/>
 </p>
