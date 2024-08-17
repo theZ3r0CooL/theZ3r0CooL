@@ -9,7 +9,7 @@
   </a>
 </p>
 <p align="center" style="width: 100%; position: absolute; display: flex; place-content: center; place-items: center;">
-  <a href="https://github.com/joshG-sgc" alt="joshG-SGC" style="border-radius:50%">
+  <a href="https://github.com/joshG-sgc" alt="joshG-SGC" style="border-radius:50%; width: 10%;">
     <img src="https://avatars.githubusercontent.com/u/130998712?v=4"/>
   </a>
 </p>
