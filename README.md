@@ -4,6 +4,11 @@
   </a>
 </p>
 <p align="center" style="padding: 20% 0 0 0;">
+  <a href="./README.md">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,redux,react,vite,d3,md,github&theme=dark&perline=6" alt="Stack Icons"/>
+  </a>
+</p>
+<p align="center" style="width: 100%; position: absolute; display: flex; place-content: center; place-items: center;">
   <style>
     img {
         border-radius: 50%;
@@ -12,13 +17,8 @@
         object-fit: cover;
     }
   </style>
-  <a href="./README.md">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,redux,react,vite,d3,md,github&theme=dark&perline=6" alt="Stack Icons"/>
-  </a>
-</p>
-<p align="center" style="width: 100%; position: absolute; display: flex; place-content: center; place-items: center;">
   <a href="https://github.com/joshG-sgc" alt="joshG-SGC">
-    <img style="width: 10%; border-radius: 50%;" src="https://avatars.githubusercontent.com/u/130998712?v=4"/>
+    <img style="width: 10%;" src="https://avatars.githubusercontent.com/u/130998712?v=4"/>
   </a>
 </p>
 <p align="center" style="width: 100%; position: absolute; display: flex; place-content: center; place-items: center;">
