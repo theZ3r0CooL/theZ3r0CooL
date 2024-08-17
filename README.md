@@ -4,6 +4,14 @@
   </a>
 </p>
 <p align="center" style="padding: 20% 0 0 0;">
+  <style>
+    img {
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+    }
+  </style>
   <a href="./README.md">
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,redux,react,vite,d3,md,github&theme=dark&perline=6" alt="Stack Icons"/>
   </a>
