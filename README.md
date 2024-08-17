@@ -1,6 +1,6 @@
 <p align="center" style="width: 100%; position: absolute; display: flex; place-content: center; place-items: center;">
   <a href='https://theZ3r0CooL.github.io/' title='https://theZ3r0CooL.github.io/' style='display: flex; place-content: center'>
-    <img src='./code-z3r0.svg' alt='Z3r0/' width='100%' height='auto' style='max-width: 20rem'/>
+    <img src='https://theZ3r0CooL.github.io/code-z3r0.svg' alt='Z3r0/' width='100%' height='auto' style='max-width: 20rem'/>
   </a>
 </p>
 <p align="center" style="padding: 20% 0 0 0;">
