@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,redux,react,vite,d3,md,github&theme=dark&perline=6" alt="Stack Icons"/>
   </a>
 </p>
-<div style="width: 100%; position: absolute; display: flex; flex-direction: row; place-content: center; place-items: center;">
-  <figure><img src="https://wakatime.com/share/@Z3r0CooL/621e1e17-b5e5-4feb-82df-e8ad00bc7517.svg"></img></figure>
-  <figure><img src="https://wakatime.com/share/@Z3r0CooL/66870b20-f2e7-4d2c-8b0a-7dedc2618995.svg"></img><figure>
-</div>
+<p style="width: 100%; position: absolute; display: flex; flex-direction: row; place-content: center; place-items: center;">
+  <figure><img style="width: 45%;" src="https://wakatime.com/share/@Z3r0CooL/621e1e17-b5e5-4feb-82df-e8ad00bc7517.svg"></img></figure>
+  <figure><img style="width: 45%;" src="https://wakatime.com/share/@Z3r0CooL/66870b20-f2e7-4d2c-8b0a-7dedc2618995.svg"></img><figure>
+</p>
