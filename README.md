@@ -9,6 +9,8 @@
   </a>
 </p>
 <div align="center" style="place-content: center;">
+  <embed src="https://wakatime.com/share/@Z3r0CooL/621e1e17-b5e5-4feb-82df-e8ad00bc7517.svg"></embed>
   <figure><embed src="https://wakatime.com/share/@Z3r0CooL/621e1e17-b5e5-4feb-82df-e8ad00bc7517.svg"></embed></figure>
   <figure><embed src="https://wakatime.com/share/@Z3r0CooL/66870b20-f2e7-4d2c-8b0a-7dedc2618995.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@Z3r0CooL/66870b20-f2e7-4d2c-8b0a-7dedc2618995.svg"></img>
 </div>
