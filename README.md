@@ -5,7 +5,7 @@
 </p>
 <p align="center" style="padding: 20% 0 0 0;">
   <a href="./README.md">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,redux,react,vite,d3,md,github&theme=dark&perline=6" alt="Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,d3,nodejs,npm,yarn,vite,vitest,scss,webstorm,rollup,md,aws,dynamodb,github&theme=dark&perline=6" alt="Stack Icons"/>
   </a>
 </p>
 <p align="center" style="width: 100%; position: absolute; display: flex; place-content: center; place-items: center;">
